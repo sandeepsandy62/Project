@@ -42,11 +42,12 @@ Output :
 https://user-images.githubusercontent.com/70258063/205030230-5c484aaa-b428-4f11-b497-1c6e242fd37e.mp4
 
 
+NOTE : If you are viewing this website on a mobile device, please switch to desktop mode.
 
 TRY DEMO : https://phddatavisualizer.netlify.app/
 
 
 
 
--------------------------------------------------------The chart visualisation is operational at all stages------------------------------------------------------------
+-------------------------------------------------------The chart visualisation is operational at all stages---------------------------------------------------
 
