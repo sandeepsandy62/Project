@@ -4,7 +4,7 @@ const cors = require("cors")
 const bodyParser = require('body-parser');
 const phddataRoute = require('../backend/routes/phddata.routes')
 
-const password = "SandeepGogarla27&";
+const password = "xxxxxxxxxx";
 const dbname = "phddb";
 
 
