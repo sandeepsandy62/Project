@@ -1,6 +1,7 @@
 # Project
 Internship Project
 
+Implemented all 3 stages
 
 This project is broken into three stages
 
