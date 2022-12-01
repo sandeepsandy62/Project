@@ -49,5 +49,5 @@ TRY DEMO : https://phddatavisualizer.netlify.app/
 
 
 
--------------------------------------------------------The chart visualisation is operational at all stages---------------------------------------------------
+-------------------------------------------------------The chart visualisation is operational at all stages-------------------------------------------------
 
