@@ -1,2 +1,2 @@
-# Project
-Internship Project
+# Assignment
+Assignment project given for an Internship
